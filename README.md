@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on: Student
+- 🔭 I’m currently working on: Programmer
 - 🌱 I’m currently learning: Programming Full Stack
 - 👯 I’m looking to collaborate on: Open Source Projects 
 - 🤔 I’m looking for help with: JavaScript
