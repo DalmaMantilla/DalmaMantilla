@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a person passionate about constant learning
 
-contact me at: 
+### contact me at: 
 
   dalmamantilla.60@gmail.com
 
