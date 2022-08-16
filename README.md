@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a person passionate about constant learning
+### Hola 👋
+Soy una 
 
 ### contact me at: 
 
