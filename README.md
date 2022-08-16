@@ -1,5 +1,7 @@
-### Hola 👋
-Soy una 
+### Hi! 👋
+
+Hello! I am Dalma, currently graduated as a Full Stack Developer and a Systems Engineering student. 
+I am passionate about constant learning and challenges
 
 ### contact me at: 
 
