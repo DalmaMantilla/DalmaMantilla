@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a person passionate about constant learning
 
-contact me at: dalmamantilla.60@gmail.com
+contact me at: 
 
-🌐 Connect with me by:
+  dalmamantilla.60@gmail.com
+
+  https://www.linkedin.com/in/dalma-mantilla/
