@@ -1,4 +1,4 @@
-# :star: About Me:
+# :star: Sobre mi:
 ¡Bienvenido a mi GitHub! Soy Dalma, actualmente egresada como Full Stack Developer y estudiante de Ingeniería en Sistemas.
 Mi enfoque es hacia el Frontend, aunque no descarto el Backend. Dedico mucho tiempo de calidad a mejorar mis TechSkills y  SoftSkills, para así poder aplicar la experiencia y conocimientos adquiridos en un puesto determinado, generando resultados positivos y de valor para quien puso su confianza en mi.
 </br>
