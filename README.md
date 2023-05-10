@@ -1,13 +1,19 @@
 <h1 align="center">¡Hey 👋! Soy Dalma 👩🏻‍💻</h1>
 <h3 align="center">Córdoba, Argentina🌎</h3><br/>
 
+![dalma](https://github.com/DalmaMantilla/DalmaMantilla/assets/89420579/cd7c2069-11eb-4326-b4d1-a7dd567f5760)
 
-#:star: Sobre mi:
-¡Bienvenido a mi GitHub! Soy Dalma, actualmente egresada como Full Stack Developer y estudiante de Ingeniería en Sistemas.
-Mi enfoque es hacia el Frontend, aunque no descarto el Backend. Dedico mucho tiempo de calidad a mejorar mis TechSkills y  SoftSkills, para así poder aplicar la experiencia y conocimientos adquiridos en un puesto determinado, generando resultados positivos y de valor para quien puso su confianza en mi.
+<h2>✅Sobre mi</h2>
+<p>
+Desde que empecé a programar, supe que me dedicaría de lleno a esto. Con muchas ganas y pasión decidí comprometerme a seguir        aprendiendo y mejorando cada día como desarrolladora. Si bien, mi formación es como Full Stack, mi enfoque es hacia el Frontend porque  me permite ser creativa y ayudar a que el usuario disfrute de una experiencia agradable y lo más sencilla posible. Actualmente sigo capacitándose en nuevas tecnologías para expandir mis conocimientos y mejorar mis habilidades.
+</p>
 </br>
 
-# 🌐 Puedes contactarme:
+
+
+
+
+<h2>🌐Puedes contactarme </h2>
 
 <a href="https://www.linkedin.com/in/dalma-mantilla/">
   <img align="left" alt="me | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
