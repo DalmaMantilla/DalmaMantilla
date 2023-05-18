@@ -1,7 +1,7 @@
 <h1 align="center">¡Hey 👋! Soy Dalma 👩🏻‍💻</h1>
 <h3 align="center">Córdoba, Argentina🌎</h3><br/>
 
-![dalma](https://github.com/DalmaMantilla/DalmaMantilla/assets/89420579/36998586-c447-46c6-b99b-7221a6c88432)
+![dalma](https://github.com/DalmaMantilla/DalmaMantilla/assets/89420579/4dd61a91-2442-4a51-afb9-7e888fd1f3e1)
 
 
 
